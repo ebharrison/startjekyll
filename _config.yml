@@ -13,3 +13,6 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
+  
+  # Google Analytics
+google_analytics: UA—155133295-2
